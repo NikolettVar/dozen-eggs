@@ -10,7 +10,6 @@ public class EggsApp{
 		//variables
 
 		int eggsCollected;
-		final int DOZEN;
 		int numberOfBoxes;
 		int eggsRemaining;
 
